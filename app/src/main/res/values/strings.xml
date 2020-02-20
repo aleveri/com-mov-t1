@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Taller1-ALeveri</string>
+    <string name="app_name">Taller 1 by Andrés Leveri</string>
+    <string name="title1">Adivina un numero entreo 0 y 50</string>
+    <string name="button1">VERIFICA!</string>
+    <string name="clue">Tu número es:</string>
+    <string name="tries">Número de intentos: </string>
+    <string name="initTries">0</string>
+    <string name="under">menor</string>
+    <string name="above">mayor</string>
+    <string name="equal">correcto</string>
 </resources>
